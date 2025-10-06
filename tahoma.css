@@ -1,0 +1,178 @@
+ p {
+            font-family: Tahoma;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .tahoma-text {
+            font-weight: bold;
+            font-size: 25px;
+            margin-bottom: 30px;
+        }
+        .Arial-text {
+            font-family: arial;
+            font-weight: bolder;
+            font-size: 25px;
+            margin-bottom: 2px;
+        }
+        .italic-text {
+            font-family: Arial;
+            font-style: italic;
+            font-size: 18px;
+            color: rgb(219, 65, 38);
+            margin-bottom: 50px;
+        }
+
+        .verdana-text {
+            font-family: verdana;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .objective-text {
+            font-family: verdana;
+            font-size: 18px;
+            color: grey;
+            margin-bottom: 20px;
+        }
+        .description-text {
+            font-family: verdana;
+            width: 300px;
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: rgb(20, 161, 20);
+            color: white;
+            padding: 8px 18px;
+            border: none;
+            border-radius: 5px;
+            cursor:pointer;
+            margin-bottom: 50px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.30);
+
+        }
+        button:hover {
+            opacity: 0.8;
+        }
+        button:active {
+            box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+            transform: translate(2px,2px);
+        }
+        .shopping-for-business {
+            font-family: arial;
+            font-weight: bold;
+            font-size: 23px;
+            margin-bottom: 18px;
+            text-align: center;
+        }
+        .apple-text {
+            text-align: center;
+            font-size: 15px;
+            margin-bottom: 18px;
+        }
+        .learn-more {
+            text-align: center;
+            cursor: pointer;
+            color: rgb(68, 68, 255);
+            margin-bottom: 50px;
+        }
+        .learn-more:hover {
+            text-decoration: underline;
+        }
+
+        .new-text {
+            font-family: arial;
+            color: orange;
+            font-size: 14px;
+            text-align:center;
+            margin-bottom: 3px;
+        }
+        .macbook-pro-text {
+            font-family: arial;
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .supercharged-for-pros {
+            font-family: Arial;
+            text-align: center;
+            font-weight: bold;
+            font-size: 30px;
+            margin-bottom: 8px;
+        }
+        .price-text {
+            font-family: arial;
+            text-align: center;
+            font-size: 14px;
+        }
+        #buy-button {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(48, 48, 220);
+            color: white;
+            padding: 8px 14px;
+            border: none;
+            border-radius: 16px;
+            cursor:pointer;
+            margin-top: 10px;
+        }
+        .parent-container {
+        text-align: center;
+    }
+    #buy-button:hover {
+        opacity: 0.8;
+    }
+    #buy-button:active {
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.30);
+    }
+    .dollar-text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        margin-bottom:4px
+    }
+    .currency {
+        font-size: 14px;
+        color: grey;
+
+    }
+    .increase-percentage {
+        font-family: Arial, Helvetica, sans-serif;
+        color: green;
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .after-decrease {
+        font-size: 14px;
+        color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 50px;
+    }
+    .decrease {
+        color: rgb(201, 0, 0);
+    }
+
+    .freecodecamp-text {
+        font-family: arial;
+        font-weight: bold;
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+    .codecamp {
+        color: grey;
+        font-weight: normal;
+    }
+    .web-developer-text {
+        font-family: arial;
+        width: 500px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+    .essential-skills {
+        font-family: arial;
+        width: 500px;
+        margin-bottom: 50px;
+    }
+    .chp-text {
+        color: #0c8ef7;
+        cursor: pointer;
+    }
+    .chp-text:hover {
+        text-decoration: underline;
+    }
